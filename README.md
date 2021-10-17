@@ -37,4 +37,5 @@
 ###### The average insurance cost for an overweight person is $10537.32
 ###### The average insurance cost for an obese person is $13348.24
 
-#### On average a person with a higher BMI will always pays higher insurance price. From this data I discorver that there was only one person in the healthy list.
+#### On average a person with a higher BMI will always pays higher insurance price. 
+#### From this data I discorver that there was only one person in the healthy list.
