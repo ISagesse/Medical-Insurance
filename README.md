@@ -1,2 +1,2 @@
 # Medical-Insurance
-Analyze the contributing factor a person insurance cost is higher that other 
+## Analyzing the contributing factor for a person insurance cost 
